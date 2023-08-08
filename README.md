@@ -1,4 +1,4 @@
-# Interactive Map of VOTV
+# Signal Creator
 ## Description:
 An interactive map of the game world in **_Voices of the Void (VOTV)_**. The map features different markers for each item, object, and landmark. As well as the ability to zoom in, pan around, and to select and deselect different items.
 
