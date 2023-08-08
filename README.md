@@ -1,11 +1,16 @@
 # Signal Creator
 ## Description:
-An interactive map of the game world in **_Voices of the Void (VOTV)_**. The map features different markers for each item, object, and landmark. As well as the ability to zoom in, pan around, and to select and deselect different items.
+A small lightweight app that allows you to create images from sounds, you can customize the resolution of the image and as well as import all or one of your sounds (.wav files). It also includes a playback and stop feature. 
+![Image](https://github.com/SquareZeb/Signal-Creator/assets/136224084/578d0582-fa30-4df6-aeb9-c8e6e16c3905)
 
-
-![Image](https://github.com/SquareZeb/SquareZeb/assets/136224084/aa799b4f-ddca-473b-bd98-bf8f562b1963)
 ## How to use:
-This map is a **.htm** file or an offline webpage. To use you must download the file and drag it over to a browser like Google, Chrome, or Edge and the webpage will show up will all of its contents.
+To use this you can start by opening up the app, going to file, and importing either a single sound file or a whole directory of them.
+From there you may change the resolution of the image by setting the X and Y ranges, once you've done that you will hit refresh button and click on the sound file to generate a new resolution image. Now remember larger resolutions will require more time to calculate and process.
+![Image](https://github.com/SquareZeb/Signal-Creator/assets/136224084/4375b420-98d3-4a16-bb3f-1cebee9d9928)
+Once you feel satisfied you may either export just one or export all of the sounds as images.
+
+## Download Link:
+Just use this google drive link: https://drive.google.com/file/d/1Qyi1GxyL-bJC75kXL-x0unsS-B47_tnZ/view?usp=drive_link
 
 
-![Image](https://github.com/SquareZeb/SquareZeb/assets/136224084/32cf02f3-366d-48e3-a824-6a240e6c9592)
+
