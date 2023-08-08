@@ -6,6 +6,7 @@ A small lightweight app that allows you to create images from sounds, you can cu
 ## How to use:
 To use this you can start by opening up the app, going to file, and importing either a single sound file or a whole directory of them.
 From there you may change the resolution of the image by setting the X and Y ranges, once you've done that you will hit refresh button and click on the sound file to generate a new resolution image. Now remember larger resolutions will require more time to calculate and process.
+
 ![Image](https://github.com/SquareZeb/Signal-Creator/assets/136224084/4375b420-98d3-4a16-bb3f-1cebee9d9928)
 Once you feel satisfied you may either export just one or export all of the sounds as images.
 
