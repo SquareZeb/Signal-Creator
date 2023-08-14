@@ -11,7 +11,9 @@ From there you may change the resolution of the image by setting the X and Y ran
 Once you feel satisfied you may either export just one or export all of the sounds as images.
 
 ## Download Link:
-Just use this google drive link: https://github.com/SquareZeb/Signal-Creator/releases/tag/Generator
+Download from the releases tab from the very right --------------------------------------------------------------------------------------------------->
+If you can't get to it, use this link to download the latest:
+https://github.com/SquareZeb/Signal-Creator/releases/tag/Generator
 
 
 
