@@ -29,7 +29,7 @@ You also have the option to change the ranges or values of the sliders to better
 ## Download Link:
 Download from the releases tab from the very right --------------------------------------------------------------------------------------------------->
 If you can't get to it, use this link to download the latest:
-https://github.com/SquareZeb/Signal-Creator/releases/tag/Generator
+https://github.com/SquareZeb/Signal-Creator/releases/tag/2.0
 
 
 
